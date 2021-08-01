@@ -1,6 +1,8 @@
 Swagger embedded for testing
 Graph DS is use to cater problem.
 
+Project Requirements - .Net Core 3.1, .Net Framework 4.7.2
+
 Request Body
 {
     "Projects":["P1", "P2", "P3", "P4"],
