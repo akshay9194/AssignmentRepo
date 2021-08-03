@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AssignmentWebApp</name>
+    </assembly>
+    <members>
+        <member name="T:AssignmentWebApp.Controllers.BuildController">
+            <summary>
+            Build controller.
+            </summary>
+        </member>
+        <member name="M:AssignmentWebApp.Controllers.BuildController.#ctor(BusinessSolution.IBuildOperations,CommonSolution.IResponseWrapper)">
+            <summary>
+            Constructor.
+            </summary>
+            <param name="_buildOperations"></param>
+            <param name="_responseWrapper"></param>
+        </member>
+        <member name="M:AssignmentWebApp.Controllers.BuildController.Order(CommonSolution.RequestModel)">
+            <summary>
+            Get build order of projects.
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="T:AssignmentWebApp.Program">
+            <summary>
+            Program.
+            </summary>
+        </member>
+        <member name="M:AssignmentWebApp.Program.Main(System.String[])">
+            <summary>
+            Main.
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:AssignmentWebApp.Program.CreateHostBuilder(System.String[])">
+            <summary>
+            Create Host Builder
+            </summary>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="T:AssignmentWebApp.Startup">
+            <summary>
+            Start up class.
+            </summary>
+        </member>
+        <member name="M:AssignmentWebApp.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Constructor.
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="P:AssignmentWebApp.Startup.Configuration">
+            <summary>
+            Config var.
+            </summary>
+        </member>
+    </members>
+</doc>

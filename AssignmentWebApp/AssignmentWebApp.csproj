@@ -5,7 +5,8 @@
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <DocumentationFile>C:\Users\shvmc\source\repos\AssignmentWebApp\AssignmentWebApp\AssignmentWebApp.xml</DocumentationFile>
+    <DocumentationFile>bin\Debug\AssignmentWebApp.xml</DocumentationFile>
+    <OutputPath>bin\Debug\</OutputPath>
   </PropertyGroup>
 
   <ItemGroup>

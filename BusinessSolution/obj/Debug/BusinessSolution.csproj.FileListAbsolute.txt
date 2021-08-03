@@ -1,0 +1,8 @@
+C:\Users\shvmc\source\repos\AssignmentRepo\BusinessSolution\bin\Debug\BusinessSolution.dll
+C:\Users\shvmc\source\repos\AssignmentRepo\BusinessSolution\bin\Debug\BusinessSolution.pdb
+C:\Users\shvmc\source\repos\AssignmentRepo\BusinessSolution\bin\Debug\CommonSolution.dll
+C:\Users\shvmc\source\repos\AssignmentRepo\BusinessSolution\bin\Debug\CommonSolution.pdb
+C:\Users\shvmc\source\repos\AssignmentRepo\BusinessSolution\obj\Debug\BusinessSolution.csprojAssemblyReference.cache
+C:\Users\shvmc\source\repos\AssignmentRepo\BusinessSolution\obj\Debug\BusinessSolution.csproj.CopyComplete
+C:\Users\shvmc\source\repos\AssignmentRepo\BusinessSolution\obj\Debug\BusinessSolution.dll
+C:\Users\shvmc\source\repos\AssignmentRepo\BusinessSolution\obj\Debug\BusinessSolution.pdb
